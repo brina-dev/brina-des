@@ -1,3 +1,5 @@
+// Um programa em C que qualcula a média, e diz se foi reprovado, aprovado ou de exame//
+
 #include "stdio.h"
 
 int main()
